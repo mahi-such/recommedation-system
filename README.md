@@ -1,1 +1,1 @@
-
+MovieMate is a modern and responsive movie recommendation web app built with Next.js. It fetches real-time movie data using the TMDB API, displays trending titles, and allows users to explore, discover, and personalize their movie-watching experience.
